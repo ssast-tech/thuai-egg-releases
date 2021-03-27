@@ -5,6 +5,6 @@
 如果不方便下载，请使用下方的jsdelivr链接.
 
 ## 下载列表
-- [Windows x86_64](https://cdn.jsdelivr.net/gh/ssast-tech/thuai-egg-releases@latest/eggs-windows-x86_64.exe)
+- [Windows x86_64](https://cdn.jsdelivr.net/gh/ssast-tech/thuai-egg-releases@latest/eggs-windows-x86_64)
 - [Ubuntu 20.04 x86_64](https://cdn.jsdelivr.net/gh/ssast-tech/thuai-egg-releases@latest/eggs-ubuntu-20.04-x86_64)
 - [Mac OS 10.15 x86_64](https://cdn.jsdelivr.net/gh/ssast-tech/thuai-egg-releases@latest/eggs-macos-10.15-x86_64)
