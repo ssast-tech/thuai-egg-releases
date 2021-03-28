@@ -6,5 +6,5 @@
 
 ## 下载列表
 - [Windows x86_64](https://cdn.jsdelivr.net/gh/ssast-tech/thuai-egg-releases@latest/eggs-windows-x86_64) 注：下载Windows版本后请自行添加.exe后缀
-- [Ubuntu 20.04 x86_64](https://cdn.jsdelivr.net/gh/ssast-tech/thuai-egg-releases@latest/eggs-ubuntu-20.04-x86_64) 注：Linux/Mac版本下载后需要手动授予可执行权限
+- [Ubuntu 18.04 x86_64](https://cdn.jsdelivr.net/gh/ssast-tech/thuai-egg-releases@latest/eggs-ubuntu-18.04-x86_64) 注：Linux/Mac版本下载后需要手动授予可执行权限
 - [Mac OS 10.15 x86_64](https://cdn.jsdelivr.net/gh/ssast-tech/thuai-egg-releases@latest/eggs-macos-10.15-x86_64)
